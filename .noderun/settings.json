@@ -1,0 +1,23 @@
+{
+  "sequence": 3,
+  "template name": "Static Hello World",
+  "description": "Static HTML Hello World App",
+  "image": "/cloud/template-icons/html.png",
+  "open files": [
+    {
+      "name": "README.md"
+    },
+    {
+      "name": "hello.html"
+    }
+  ],
+  "active tab": 1,
+  "app start": "hello.html",
+  "routes": {},
+  "template dir": "static-hello-world",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ],
+  "active widgets panel tab": 2
+}
